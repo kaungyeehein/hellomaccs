@@ -1,0 +1,12 @@
+OBELISK (New) ,,,,,,
+Sr,Type,Engine,CD,CT,SGT,Remark
+,,,,,,(Obelisk)
+1,Normal,up to 1800,30,5,,
+,,1801-2000,30,5,25,
+,,2001 and above,40,5,25,
+2,Taxi,up to 1800,3,5,,1
+,,1801 and above,3,5,25,1
+3,Double Cab,up to 2000,30,5,,
+,,2001 and above,40,5,,
+4,????????????????,,,,,
+5,???????,,,,,

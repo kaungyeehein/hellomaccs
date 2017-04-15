@@ -1,0 +1,36 @@
+recid,Code,Unit
+1,BA,Barrel
+2,BE,Bundle
+3,BG,Bag
+4,BR,Bar
+5,BX,Box
+6,CA,"Can,rectangular"
+7,CL,Coil
+8,CN,Container
+9,CR,Crate
+10,CS,Case
+11,CT,Carton
+12,CY,Cylinder
+13,DR,Drum
+14,LG,Log
+15,NT,Net
+16,PA,Packet
+17,PG,Plate
+18,PK,Package
+19,PL,Pail
+20,PP,Pallet & Package
+21,PS,Piece
+22,PY,"Plates, in bundle/bunch/truss"
+23,RL,Reel
+24,RO,Roll
+25,SA,Sack
+26,SI,Skid
+27,SF,Set
+28,ST,Sheet
+29,SZ,"Sheet,in bundle/bunch/truss"
+30,TN,Tin
+31,VG,"Bulk, gas?at 1031mber and 15??"
+32,VO,"Bulk, solid, large particles(nodules?"
+33,VR,"Bulk, solid, granular particles(grains?"
+34,WD,Wooden Drum
+35,ZZ,Other

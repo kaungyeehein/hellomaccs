@@ -1,0 +1,11 @@
+recid,Code,Type
+1,GP,General purpose container
+2,RT,Thermal container -Refrigerated and heated
+3,UT,Open-top container
+4,PF,Platform-based containers with incomplete superstructure:Fixed
+5,PL,Platform containers
+6,TN,Tank container -For nondangerous liquids
+7,SN,Named cargo container
+8,TD,Tank container -For dangerous liquids
+9,TG,Tank container -For Gas
+10,BU,Bulk Container

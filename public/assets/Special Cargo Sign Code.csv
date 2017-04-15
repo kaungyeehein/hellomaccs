@@ -1,0 +1,21 @@
+recid,Code,Reason
+1,PLQ,Plants
+2,ANI,Animals
+3,DNG,Dangerous
+4,FRC,Non-edible Perishable
+5,PER,Edible Perishable
+6,EXP,Explosives
+7,INF,Inflammable
+8,TOX,Toxic
+9,RAD,Radioactive material 
+10,ARM,Arms
+11,VAL,Valuable
+12,MED,Medicine
+13,FRG,Frozen goods
+14,RFG,Refrigerated goods
+15,POW,Powder (cement etc..)
+16,DOP,Diplomatic cargo
+17,MUW,Military import goods
+18,MMM,Airplane parts (Emergency)
+19,OIL,Cooking oil (Tank or drum)
+20,URG,Urgent or Rush

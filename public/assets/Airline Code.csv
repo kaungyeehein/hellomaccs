@@ -1,0 +1,29 @@
+recid,Code,Ground Handling Group,Agency Code,Name
+1,8M,MAI,100MW,Myanmar Airways International
+2,NH,MAI,100MW,All Nippon Airways
+3,SQ,MAI,100MW,Singapore Airlines
+4,MH,MAI,100MW,Malaysia Airline System Berhad
+5,KA,MAI,100MW,Hong Kong Dragon Airlines
+6,CX,MAI,100MW,Cathay Pacific Airways (*) Registrant = Hong Kong Dragon Airlines
+7,MI,MAI,100MW,Silk Air
+8,BG,MAI,100MW,Biman Bangladesh Airlines
+9,EK,MAI,100MW,Emirade air line
+10,SL,MAI,100MW,Thai Lion
+11,3K,MAI,100MW,Jetstar Asia Airways
+12,UB,MNA,100O8,Myanmar National Airlines
+13,QR,MNA,100O8,Qatar Airways
+14,FD,MNA,100O8,Thai Air Asia
+15,CI,MNA,100O8,China Airlines
+16,CA,MNA,100O8,Air China International
+17,CZ,MNA,100O8,China Southern Airlines
+18,AI,MNA,100O8,Air India
+19,MU,MNA,100O8,China Eastern Airlines
+20,VN,MNA,100O8,Vietnam Airlines
+21,KE,MNA,100O8,Korean Airlines
+22,OZ,MNA,100O8,Asiana Airlines
+23,DD,MNA,100O8,Nok Airlines
+24,TG,YAG,100O7,Thai Airways International
+25,TR,YAG,100O7,Tiger Airways
+26,AK,YAG,100O7,Air Asia
+27,PG,YAG,100O7,Bangkok Airways
+28,UO,YAG,100O7,Hong Kong Express Airways

@@ -1,0 +1,6 @@
+recid,Code,Reason
+1,TRT,Transshipment to other foreign trade vessel (with transportation)
+2,TRS,Transshipment to other foreign trade vessel (without transportation)
+3,POS,Load manipulation to the same vessel
+4,REV,Container refill
+5,OTH,Other

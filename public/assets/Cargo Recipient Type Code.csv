@@ -1,0 +1,7 @@
+recid,Code,Reason
+1,51,In the case of CY receipt of cargo
+2,52,In the case of CFS receipt of cargo
+3,53,In the case of DOOR receipt of cargo
+4,54,In the case of Direct (Break bulk) receipt of cargo
+5,55,In the case of CY and CFS receipt of cargo
+6,OT,In the cases of other than the above 
